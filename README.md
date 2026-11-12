@@ -4,7 +4,7 @@
 
 人物以微缩尺度出现在巨型日常物体构成的奇观世界里——键盘是街区、杯子是高楼、灰尘是沙暴。这个 Skill 把整条链路串起来：文案 → 多视角人物图与鸟瞰空镜 → 四套风格方案 → 组块式分镜表 → 3D 白模运镜预演 → 组块式分镜 → 即梦 Seedance 2.5 出片。
 
-由 [@拍广告的Daham](https://github.com/Daham0) 制作，抖音小红书同号。
+由 [@拍广告的Daham](https://github.com/Daham0) 制作，抖音小红书同号，微信：Daham0927。
 
 ---
 
@@ -108,4 +108,15 @@ workflow/
 
 ---
 
-**此 skill 由 @拍广告的Daham 独家定制，需要更多 skill 定制，敬请联系。抖音小红书同号。**
+**此 skill 由 @拍广告的Daham 独家定制，需要更多 skill 定制，敬请联系。抖音小红书同号，微信：Daham0927。**
+
+## 许可证 / License
+
+本项目采用 **MIT License**，详见 [LICENSE](LICENSE)。
+
+```
+Copyright (c) 2026 拍广告的Daham (GitHub: Daham0)
+```
+
+**署名与联系方式**：作者 拍广告的Daham ｜ 微信 **Daham0927** ｜ 抖音 / 小红书 / GitHub 同名（GitHub: Daham0）。
+引用、改编或二次分发时请保留署名信息与原仓库链接；商业定制请联系微信 Daham0927。
