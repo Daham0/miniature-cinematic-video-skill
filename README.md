@@ -112,11 +112,11 @@ workflow/
 
 ## 许可证 / License
 
-本项目采用 **MIT License**，详见 [LICENSE](LICENSE)。
+本项目采用 **MIT License**，详见 [LICENSE](LICENSE)；署名与联系方式见 [NOTICE.md](NOTICE.md)。
 
 ```
 Copyright (c) 2026 拍广告的Daham (GitHub: Daham0)
 ```
 
-**署名与联系方式**：作者 拍广告的Daham ｜ 微信 **Daham0927** ｜ 抖音 / 小红书 / GitHub 同名（GitHub: Daham0）。
-引用、改编或二次分发时请保留署名信息与原仓库链接；商业定制请联系微信 Daham0927。
+**作者**：拍广告的Daham ｜ **微信**：Daham0927 ｜ 抖音 / 小红书 / GitHub 同名（Daham0）。
+引用、改编或二次分发请保留署名信息与原仓库链接；商业定制请联系微信 Daham0927。
